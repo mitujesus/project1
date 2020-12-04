@@ -39,7 +39,7 @@ const buy_wallia_card = document.querySelector('#wallia');
 const buy_kebero_card = document.querySelector('#kebero');
 
 const grand_total = document.querySelector("#grandTotal");
-//const total_item = document.querySelector("#grandTotal");
+
 
 // const buy_type =
 
